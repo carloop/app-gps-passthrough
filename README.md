@@ -14,3 +14,7 @@ It passes through all data from USB serial to UART serial (TX/RX pins).
 - Menu Receiver -> Port -> COMx
 - You should now see the data flowing from the GPS
 
+## License
+
+Copyright 2017 - 1000 Tools Inc
+Released under the MIT license
